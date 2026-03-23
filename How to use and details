@@ -1,0 +1,19 @@
+////How to use
+
+1. Type the following command to get the files
+
+git clone https://github.com/MUHAMMEDKAGANTURKYILMAZ/Create-fully-automatic-temp-mail
+
+2. If you don't download the logs, your command won't work
+
+pip install requests user-agent urllib3
+
+3. Start the command
+
+python script.py
+
+////Make a donation
+
+sol:2R8s8z7cEiUVs44BGq5dsz3XhnvyXpirqk7bLieC2q4y
+bc:bc1q5d8l6qlapv5xw7ekh8pd5h7v5jyt5dfd7yw5vf
+ltc:ltc1qqrvxg4yfyh6udael48fh2u9vl630jz47g7wjyk
