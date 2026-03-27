@@ -1,36 +1,28 @@
-# CREATE TEMPORARY E-MAIL ADDRESSES
+# TEMPORARY EMAIL SERVICE PROJECT
 
 ---
 
 ## PROJECT OVERVIEW
-This repository contains a high-performance web application built with modern standards. The project focuses on core principles such as **speed**, **security**, and **user-centric design**. It is engineered to provide a seamless interface while maintaining a robust technical foundation.
+This project is a high-performance web application designed to generate and manage **temporary email addresses**. It provides users with a secure way to receive confirmation emails and attachments without revealing their primary email identity, effectively reducing spam and enhancing privacy.
 
 ---
 
-## KEY FEATURES
-* **Optimized Interface:** Built with Tailwind CSS for a fully responsive and professional look.
-* **Efficient Logic:** Clean JavaScript implementation ensuring high performance and low latency.
-* **Security Layers:** Integrated structures for bot prevention and data integrity.
-* **Automation Ready:** Designed to work alongside Python-based scripts for backend tasks.
+## CORE CAPABILITIES
+* **Instant Generation:** Automated creation of unique, temporary mailboxes.
+* **Real-Time Reception:** Fast fetching of incoming messages using modern API integrations.
+* **Privacy Focused:** No personal data retention; addresses and contents are purged after a set duration.
+* **Security Layers:** Integrated bot protection and rate-limiting to prevent service abuse.
 
 ---
 
-## TECHNICAL STACK
-The following technologies are utilized to ensure the project meets professional benchmarks:
+## TECHNICAL ARCHITECTURE
+The system is built with a modular approach to ensure scalability and speed:
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
-| **Frontend** | HTML5 / CSS3 | Structural Foundation |
-| **Styling** | Tailwind CSS | Visual Design and Layout |
-| **Logic** | JavaScript (ES6+) | Dynamic Functionality |
-| **Automation** | Python | Task Processing |
+| **Frontend** | HTML5 / Tailwind CSS | Responsive and Minimalist UI |
+| **Logic Layer** | JavaScript (ES6+) | Asynchronous Mail Fetching |
+| **Backend/Automation** | Python | Mail Server Interaction and Cleanup |
+| **API Integration** | Restful APIs | Communication with Mail Protocols |
 
 ---
-
-## INSTALLATION AND SETUP
-
-Follow these steps to deploy the project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/username/project-name.git](https://github.com/username/project-name.git)
