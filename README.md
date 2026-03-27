@@ -37,4 +37,4 @@ Follow these steps to run the script:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/username/temp-mail-script.git](https://github.com/username/temp-mail-script.git)
+   git clone https://github.com/MUHAMMEDKAGANTURKYILMAZ/Create-fully-automatic-temp-mail
